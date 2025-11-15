@@ -1,3 +1,14 @@
+/**
+ * INTEGRANTES DO GRUPO:
+ * - Heitor de Oliveira Alves da Silva RA: 925111457
+ * - Isabeli Ayres Aragão RA: 925103668
+ * - Kauã de Souza Benevides RA: 925100241
+ * - Kelvin Demetrio dos Santos Pereira RA: 923109986
+ * - Leticia Melo Silva RA: 925111960
+ * - Lucas Bernardes RA: 925109252
+ * - Matheus Caetano de Souza RA: 925110653
+ * - Thais de Aguiar Vicente RA: 925100177
+ */
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
@@ -426,5 +437,6 @@ public class Main {
         }
     }
 }
+
 
 
